@@ -3,7 +3,7 @@
 $server = "127.0.0.1";
 $user = "root";
 $pass = "";
-$bd = "generator";
+$bd = "novadev_generator";
 
 //Creamos la conexión
 $conexion = mysqli_connect($server, $user, $pass,$bd) 
